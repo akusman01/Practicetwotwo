@@ -1,0 +1,33 @@
+body {
+  background-color: gold;
+}
+h1 {
+  color: blue;
+}
+h2 {
+  color: blanchedalmond;
+}
+ul {
+  color: blue;
+}
+li {
+  color: palevioletred;
+}
+p {
+  color: green;
+}
+.Projects {
+  color: blueviolet;
+}
+.Priorities {
+  color: rgb(180, 226, 222);
+}
+#prescription {
+  color: rgb(184, 11, 11);
+}
+#Hobbies {
+  color: rgb(184, 11, 11);
+}
+#Message {
+  color: rgb(184, 11, 11);
+}
